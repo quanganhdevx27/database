@@ -11,7 +11,7 @@
     ],
     "free": [
       {
-        "url": "https://blum-free-1.vercel.app/api/",
+        "url": "http://localhost/api/",
         "status": 1
       }
     ]
