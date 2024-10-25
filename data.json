@@ -6,13 +6,13 @@
     "pro": [
       {
         "url": "https://localhost/api/",
-        "status": 0
+        "status": 1
       }
     ],
     "free": [
       {
         "url": "https://blum-free-1.vercel.app/api/",
-        "status": 0
+        "status": 1
       }
     ]
   },
